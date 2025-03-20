@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "sql-db-3993",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6abef8f6-49f4-419a-a71e-853743f5121f",
+      "database_name": "n8n"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
